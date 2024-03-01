@@ -1,4 +1,5 @@
-              Jogo Pong feito com Python e o framework Kivy 
+
+  Jogo Pong feito com Python e o framework Kivy 
 
   Projeto foi desenvolvido a partir de um guia, encontrado na documentação do kivy.
   
